@@ -2,11 +2,13 @@
 \contentsline {section}{Summary}{ii}
 \contentsline {section}{\numberline {1}序論}{1}
 \contentsline {subsection}{\numberline {1.1}本研究の概要}{1}
-\contentsline {section}{\numberline {2}\TeX のインストール}{1}
-\contentsline {section}{\numberline {3}文字コード}{2}
-\contentsline {section}{\numberline {4}論文の構成}{2}
-\contentsline {section}{\numberline {5}論文のフォーマット}{3}
-\contentsline {subsection}{\numberline {5.1}レイアウト：Microsoft Word}{3}
-\contentsline {subsection}{\numberline {5.2}レイアウト： \TeX }{3}
-\contentsline {subsection}{\numberline {5.3}図表の入れ方}{3}
-\contentsline {subsection}{\numberline {5.4}参考文献の書き方}{4}
+\contentsline {subsection}{\numberline {1.2}背景と課題}{1}
+\contentsline {subsubsection}{\numberline {1.2.1}地域活性化における内発的発展}{1}
+\contentsline {subsubsection}{\numberline {1.2.2}過疎地域における｢地域コミュニティ問題」の現状}{2}
+\contentsline {section}{\numberline {2}本研究の目的}{2}
+\contentsline {section}{\numberline {3}論文の構成}{2}
+\contentsline {section}{\numberline {4}論文のフォーマット}{3}
+\contentsline {subsection}{\numberline {4.1}レイアウト：Microsoft Word}{3}
+\contentsline {subsection}{\numberline {4.2}レイアウト： \TeX }{4}
+\contentsline {subsection}{\numberline {4.3}図表の入れ方}{4}
+\contentsline {subsection}{\numberline {4.4}参考文献の書き方}{5}

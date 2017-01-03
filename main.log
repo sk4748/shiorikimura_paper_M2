@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  3 JAN 2017 11:28
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  3 JAN 2017 11:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -427,44 +427,51 @@ LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 39.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 39.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 45.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 45.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 45.
-LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 45.
-LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 45.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 47.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 47.
- [1
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 49.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 49.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 49.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 49.
 
-] [2]
+
+LaTeX Warning: Citation `6' on page 1 undefined on input line 49.
+
+
+LaTeX Warning: Citation `7' on page 1 undefined on input line 49.
+
+[1
+
+] [2] [3]
 File: ./images/sample.jpg Graphic file (type bmp)
  <./images/sample.jpg>
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 86.
+(Font)              scaled to size 8.65997pt on input line 84.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 86.
+(Font)              scaled to size 8.65997pt on input line 84.
 File: ./images/sample.jpg Graphic file (type bmp)
  <./images/sample.jpg>
 File: ./images/sample.jpg Graphic file (type bmp)
  <./images/sample.jpg>
 File: ./images/sample.jpg Graphic file (type bmp)
- <./images/sample.jpg> [3] [4] [5] (./main.aux) ) 
+ <./images/sample.jpg> [4]
+
+LaTeX Warning: Citation `sample' on page 5 undefined on input line 117.
+
+[5] [6] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 983 strings out of 493689
- 12135 string characters out of 6149981
- 71818 words of memory out of 5000000
- 4577 multiletter control sequences out of 15000+600000
- 13029 words of font info for 62 fonts, out of 8000000 for 9000
+ 958 strings out of 493689
+ 11701 string characters out of 6149981
+ 73818 words of memory out of 5000000
+ 4561 multiletter control sequences out of 15000+600000
+ 10926 words of font info for 54 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,10n,21p,739b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,10n,22p,995b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (9 pages, 17344 bytes).
+Output written on main.dvi (10 pages, 21288 bytes).
