@@ -1,0 +1,52 @@
+% iapaper.sty
+% Please do not modify this file.
+% Date: 2015/11/12
+% Copyright 2015, Tetsuaki Baba
+
+%\setlength{\voffset}{9.6mm} % 35mm-25.4mm
+\setlength{\voffset}{9.6mm} % 35mm-25.4mm
+%\setlength{\hoffset}{-0.4mm}
+\setlength{\topmargin}{0mm}
+\setlength{\headheight}{0mm}
+\setlength{\headsep}{0mm}
+
+\setlength{\oddsidemargin}{25mm}
+\addtolength{\oddsidemargin}{-1in}
+
+\setlength{\evensidemargin}{30mm}
+\addtolength{\evensidemargin}{-1in}
+
+\setlength{\marginparsep}{0mm}
+\setlength{\marginparwidth}{0mm}
+\setlength{\footskip}{0mm}
+
+\setlength{\baselineskip}{21.45pt}
+
+\setlength{\textwidth}{210mm}
+\addtolength{\textwidth}{-25mm}
+\addtolength{\textwidth}{-30mm}
+
+\setlength{\textheight}{297mm}
+\addtolength{\textheight}{-35mm}
+\addtolength{\textheight}{-35mm}
+
+
+
+\newcommand{\doctorthesis}{　\vspace{20.8pt}\begin{center} \large{博　士　論　文} \end{center}  }
+\newcommand{\masterthesis}{　\vspace{20.8pt}\begin{center} \large{修　士　論　文} \end{center}  }
+\newcommand{\degreethesis}{　\vspace{20.8pt}\begin{center} \large{学　士　論　文} \end{center}  }
+\renewcommand{\title}[1]{\vspace{32pt}\begin{center}\LARGE{#1}\end{center}}
+\newcommand{\IDnumber}[1]{\vspace{24pt}\begin{center}\large{（ #1 ）} \end{center}}
+\newcommand{\advisor}[1]{\vspace{32pt}\begin{center}\large{指導教員 #1}\end{center}}
+\newcommand{\submissiondate}[1]{\vspace{32pt} \begin{center} \normalsize{提出日：#1} \end{center}}
+\renewcommand{\date}[1]{\vspace{36pt}\begin{center}#1\end{center}}
+\newcommand{\Bauthor}[1]{\begin{center}\Huge{#1}  \\ \vspace{10.75pt} \large{首都大学東京}  \\ \large{システムデザイン学部}   \\  \large{インダストリアルアートコース} \end{center} }
+\newcommand{\Mauthor}[1]{\begin{center}\Huge{#1}  \\ \vspace{10.75pt} \large{首都大学東京大学院}  \\ \large{システムデザイン研究科 博士前期課程}   \\  \large{インダストリアルアート学域} \end{center} }
+\newcommand{\Dauthor}[1]{\begin{center}\Huge{#1}  \\ \vspace{10.75pt} \large{首都大学東京大学院}  \\ \large{システムデザイン研究科 博士後期課程}   \\  \large{インダストリアルアート学域} \end{center} }
+
+\newcommand{\makemokuji}{\clearpage \normalsize \tableofcontents　\fontsize{12pt}{21.45pt}\selectfont \thispagestyle{empty}  \clearpage}
+\newcommand{\jasummary}[2]{  \begin{center} \Large{ \bf{#1 \\  --- #2}} \end{center}  要旨 \thispagestyle{empty} \addcontentsline{toc}{section}{要旨} \\ }
+\newcommand{\summary}[2]{\clearpage  \begin{center} \Large{ \bf{#1 \\  --- #2}} \end{center}  Summary  \thispagestyle{empty}  \addcontentsline{toc}{section}{Summary} \\ }
+
+\renewcommand{\maketitle}{\thispagestyle{empty} \clearpage \fontsize{12pt}{21.45pt}\selectfont }
+
