@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1483412271 "main.dvi" "main.pdf" "main" 1483412271
-  "main.dvi" 1483412270 21288 28a930722701d74b0d6bcbba79c59e8f "latex"
+["dvipdf"] 1483499175 "main.dvi" "main.pdf" "main" 1483499176
+  "main.dvi" 1483499175 21944 22862f3a7fb11bcce86a4a611d230744 "latex"
   (generated)
   "main.pdf"
-["latex"] 1483412270 "main.tex" "main.dvi" "main" 1483412271
+["latex"] 1483499175 "main.tex" "main.dvi" "main" 1483499176
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -31,11 +31,11 @@
   "iapaper.sty" 1453945982 2761 90c61713a9c89a8dd7ecfc115aaabd79 ""
   "images/sample.jpg" 1323121572 702734 6119f0c95d21bd5a207a190d8f7faa68 ""
   "images/sample.xbb" 1386552002 183 1d05bb0b52ffc783dccd592bdb601651 ""
-  "main.aux" 1483412270 1701 eebe51c068f8235983595d299a6beaef ""
-  "main.tex" 1483412270 12871 a0bedf8bb55907353f8663d320d20307 ""
-  "main.toc" 1483412270 958 2cfde27c5d3857fc4ec43c1c9e9ab44f ""
+  "main.aux" 1483499175 1746 72081aa863e1dde149e19ee6d96803f4 ""
+  "main.tex" 1483499174 13400 8cdc31391a3263c47215a367cd45e5a2 ""
+  "main.toc" 1483499175 958 2cfde27c5d3857fc4ec43c1c9e9ab44f ""
   (generated)
   "main.toc"
-  "main.aux"
   "main.log"
+  "main.aux"
   "main.dvi"
