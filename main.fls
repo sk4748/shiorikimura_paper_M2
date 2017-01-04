@@ -52,6 +52,9 @@ INPUT main.toc
 INPUT main.toc
 OUTPUT main.toc
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT ./images/sample.jpg
 INPUT ./images/sample.xbb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm

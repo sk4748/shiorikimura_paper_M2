@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1483499175 "main.dvi" "main.pdf" "main" 1483499176
-  "main.dvi" 1483499175 21944 22862f3a7fb11bcce86a4a611d230744 "latex"
+["dvipdf"] 1483540719 "main.dvi" "main.pdf" "main" 1483540734
+  "main.dvi" 1483540719 22856 e987d556dac20c581a5a316b810750dc "latex"
   (generated)
   "main.pdf"
-["latex"] 1483499175 "main.tex" "main.dvi" "main" 1483499176
+["latex"] 1483540718 "main.tex" "main.dvi" "main" 1483540734
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -12,12 +12,14 @@
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss12.tfm" 1136768653 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm" 1463242385 780 9d56a8f9483b0d090553358c515b7835 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm" 1463242385 504 db18a8c0bf0b51f5d6237cc98872380d ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm" 1463242385 780 9d56a8f9483b0d090553358c515b7835 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm" 1463242385 504 db18a8c0bf0b51f5d6237cc98872380d ""
   "/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty" 1463608860 8253 473e0e41f9adadb1977e8631b8f72ea6 ""
   "/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty" 1463608860 18425 5b3c0c59d76fac78978b5558e83c1f36 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd" 1454284088 2256 80ce1168fb4ce6a85583a9cf8972c013 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def" 1460062417 13436 2dcadf39017cb9d8459661645611b649 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1459978653 3103 f32642b1cd56c010cdfb6545539b7f0b ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty" 1462915952 14391 bd64a9e5d07473b936423b5f3280ed2c ""
@@ -31,11 +33,11 @@
   "iapaper.sty" 1453945982 2761 90c61713a9c89a8dd7ecfc115aaabd79 ""
   "images/sample.jpg" 1323121572 702734 6119f0c95d21bd5a207a190d8f7faa68 ""
   "images/sample.xbb" 1386552002 183 1d05bb0b52ffc783dccd592bdb601651 ""
-  "main.aux" 1483499175 1746 72081aa863e1dde149e19ee6d96803f4 ""
-  "main.tex" 1483499174 13400 8cdc31391a3263c47215a367cd45e5a2 ""
-  "main.toc" 1483499175 958 2cfde27c5d3857fc4ec43c1c9e9ab44f ""
+  "main.aux" 1483540719 1759 c614c35b98171331175821d2cb268393 ""
+  "main.tex" 1483540734 13460 8046e7db5dcb502d1a7b413488ca6c6f ""
+  "main.toc" 1483540719 971 96da37790e8eac090934d88e67b40632 ""
   (generated)
-  "main.toc"
+  "main.dvi"
   "main.log"
   "main.aux"
-  "main.dvi"
+  "main.toc"
