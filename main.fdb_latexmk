@@ -1,15 +1,14 @@
 # Fdb version 3
-["dvipdf"] 1483540719 "main.dvi" "main.pdf" "main" 1483540734
-  "main.dvi" 1483540719 22856 e987d556dac20c581a5a316b810750dc "latex"
+["dvipdf"] 1483541648 "main.dvi" "main.pdf" "main" 1483585024
+  "main.dvi" 1483541648 23960 c037baa764d71656343d708f1d84e1ca "latex"
   (generated)
   "main.pdf"
-["latex"] 1483540718 "main.tex" "main.dvi" "main" 1483540734
+["latex"] 1483541648 "main.tex" "main.dvi" "main" 1483585024
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
-  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss12.tfm" 1136768653 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -31,13 +30,11 @@
   "/usr/local/texlive/2016/texmf-var/web2c/euptex/uplatex.fmt" 1463979165 4047635 131d4e53fdf20be13835279df18dce72 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "iapaper.sty" 1453945982 2761 90c61713a9c89a8dd7ecfc115aaabd79 ""
-  "images/sample.jpg" 1323121572 702734 6119f0c95d21bd5a207a190d8f7faa68 ""
-  "images/sample.xbb" 1386552002 183 1d05bb0b52ffc783dccd592bdb601651 ""
-  "main.aux" 1483540719 1759 c614c35b98171331175821d2cb268393 ""
-  "main.tex" 1483540734 13460 8046e7db5dcb502d1a7b413488ca6c6f ""
-  "main.toc" 1483540719 971 96da37790e8eac090934d88e67b40632 ""
+  "main.aux" 1483541648 1420 96a6b4d9a472726a24f9ae7e25c55502 ""
+  "main.tex" 1483585023 14163 1b77abc1d8f118d98094ce8e955c4ea1 ""
+  "main.toc" 1483541648 899 91c81cde9ec7e311df261ed9300150d0 ""
   (generated)
-  "main.dvi"
-  "main.log"
   "main.aux"
+  "main.dvi"
   "main.toc"
+  "main.log"

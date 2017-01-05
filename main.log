@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  4 JAN 2017 23:38
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  4 JAN 2017 23:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -437,42 +437,39 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
  [2] [3]
-File: ./images/sample.jpg Graphic file (type bmp)
- <./images/sample.jpg>
-LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 92.
-LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 92.
-File: ./images/sample.jpg Graphic file (type bmp)
- <./images/sample.jpg>
-File: ./images/sample.jpg Graphic file (type bmp)
- <./images/sample.jpg>
-File: ./images/sample.jpg Graphic file (type bmp)
- <./images/sample.jpg> [4]
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 125.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 125.
+(Font)              scaled to size 11.54663pt on input line 85.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 125.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 125.
+(Font)              scaled to size 11.54663pt on input line 85.
 
 
-LaTeX Warning: Citation `sample' on page 5 undefined on input line 125.
+LaTeX Warning: Citation `9' on page 4 undefined on input line 85.
 
-[5] [6] (./main.aux)
+
+LaTeX Warning: Citation `10' on page 4 undefined on input line 85.
+
+
+LaTeX Warning: Citation `11' on page 4 undefined on input line 85.
+
+
+LaTeX Warning: Citation `12' on page 4 undefined on input line 85.
+
+[4] [5] [6] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 977 strings out of 493689
- 12021 string characters out of 6149981
- 73818 words of memory out of 5000000
- 4577 multiletter control sequences out of 15000+600000
- 11183 words of font info for 55 fonts, out of 8000000 for 9000
+ 967 strings out of 493689
+ 11859 string characters out of 6149981
+ 74818 words of memory out of 5000000
+ 4572 multiletter control sequences out of 15000+600000
+ 10613 words of font info for 52 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,10n,22p,995b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,4n,22p,2894b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (10 pages, 22856 bytes).
+Output written on main.dvi (10 pages, 23960 bytes).
