@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  4 JAN 2017 23:54
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  7 JAN 2017 17:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -356,7 +356,14 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
-) (./main.aux)
+) (./main.aux
+
+LaTeX Warning: Label `fig:tmu_hino' multiply defined.
+
+
+LaTeX Warning: Label `fig:tmu_hino' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -404,13 +411,13 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 25.
  [1
 
-] [2
+] [2] [3] [4
 
 ]
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 30.
+(Font)              scaled to size 9.6222pt on input line 53.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 30.
+(Font)              scaled to size 9.6222pt on input line 53.
  (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
@@ -420,56 +427,215 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [3
+ [5
 
 ]
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 39.
+(Font)              scaled to size 11.54663pt on input line 62.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 39.
+(Font)              scaled to size 11.54663pt on input line 62.
  [1
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 55.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 78.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
  [2] [3]
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 85.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 108.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 85.
+(Font)              scaled to size 11.54663pt on input line 108.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 85.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 108.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 85.
+(Font)              scaled to size 11.54663pt on input line 108.
 
 
-LaTeX Warning: Citation `9' on page 4 undefined on input line 85.
+LaTeX Warning: Citation `9' on page 4 undefined on input line 108.
 
 
-LaTeX Warning: Citation `10' on page 4 undefined on input line 85.
+LaTeX Warning: Citation `10' on page 4 undefined on input line 108.
 
 
-LaTeX Warning: Citation `11' on page 4 undefined on input line 85.
+LaTeX Warning: Citation `11' on page 4 undefined on input line 108.
 
 
-LaTeX Warning: Citation `12' on page 4 undefined on input line 85.
+LaTeX Warning: Citation `12' on page 4 undefined on input line 108.
 
-[4] [5] [6] (./main.aux)
+[4]
+./main.tex:118: Undefined control sequence.
+l.118 ...方の南部に位置する魚沼市は
+                                                、水や気候がコシヒカ
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:118: Undefined control sequence.
+l.118 ...\par魚沼市中心市街地から車で
+                                                 40分の場所に立地する
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:118: Undefined control sequence.
+l.118 ...クセス条件は良いとは言えず
+                                                、離村した若年層が頻
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5]
+File: ./images/yokone_place.pdf Graphic file (type pdf)
+ <./images/yokone_place.pdf>
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 125.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 125.
+ [6]
+File: ./images/02.png Graphic file (type bmp)
+ <./images/02.png>
+File: ./images/03.png Graphic file (type bmp)
+ <./images/03.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+./main.tex:150: Undefined control sequence.
+l.150 ...ことがわかった。\par地域には
+                                                 「役員会」と呼ばれる
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:150: Undefined control sequence.
+l.150 ...ar地域のヒアリング調査からも
+                                                  、昔は毎年やって...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[7] [8]
+
+LaTeX Warning: Citation `10' on page 9 undefined on input line 154.
+
+
+LaTeX Warning: Citation `10' on page 9 undefined on input line 156.
+
+
+LaTeX Warning: Citation `10' on page 9 undefined on input line 156.
+
+
+./main.tex:160: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 \item 1
+              … 事前に制作したデモ版を元にした最終イメ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./main.tex:161: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 \item 2
+              … 集落の地図を1.5[m]×２[m]の紙地図に印刷し...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./main.tex:164: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.164 \item 3
+             … 特定されたら、紙地図上の撮影場所に写真...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./main.tex:166: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.166 \item 4
+              … データ作成の担当を決定する。
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./main.tex:168: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.168 \item 5
+             …マッピングシステムを利用し、写真データに...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./main.tex:169: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 \item 6
+             …成果物観覧
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[9]
+
+./main.tex:172: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.172 \item 1
+             )場の運営\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[10] [11] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 967 strings out of 493689
- 11859 string characters out of 6149981
- 74818 words of memory out of 5000000
- 4572 multiletter control sequences out of 15000+600000
- 10613 words of font info for 52 fonts, out of 8000000 for 9000
+ 990 strings out of 493689
+ 12168 string characters out of 6149981
+ 75818 words of memory out of 5000000
+ 4583 multiletter control sequences out of 15000+600000
+ 11183 words of font info for 55 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,4n,22p,2894b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,4n,22p,3323b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (10 pages, 23960 bytes).
+Output written on main.dvi (17 pages, 48684 bytes).

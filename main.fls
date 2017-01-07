@@ -56,4 +56,13 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./images/yokone_place.pdf
+INPUT extractbb -O ./images/yokone_place.pdf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT ./images/02.png
+INPUT extractbb -O ./images/02.png
+INPUT ./images/03.png
+INPUT extractbb -O ./images/03.png
 INPUT main.aux

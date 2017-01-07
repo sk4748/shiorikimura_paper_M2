@@ -1,14 +1,15 @@
 # Fdb version 3
-["dvipdf"] 1483541648 "main.dvi" "main.pdf" "main" 1483585024
-  "main.dvi" 1483541648 23960 c037baa764d71656343d708f1d84e1ca "latex"
+["dvipdf"] 1483779541 "main.dvi" "main.pdf" "main" 1483779583
+  "main.dvi" 1483779541 48684 c3aade624336f0962a7058defe492390 "latex"
   (generated)
   "main.pdf"
-["latex"] 1483541648 "main.tex" "main.dvi" "main" 1483585024
+["latex"] 1483779540 "main.tex" "main.dvi" "main" 1483779583
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss12.tfm" 1136768653 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -29,12 +30,18 @@
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
   "/usr/local/texlive/2016/texmf-var/web2c/euptex/uplatex.fmt" 1463979165 4047635 131d4e53fdf20be13835279df18dce72 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
+  "extractbb -O ./images/02.png" 0 -1 0 ""
+  "extractbb -O ./images/03.png" 0 -1 0 ""
+  "extractbb -O ./images/yokone_place.pdf" 0 -1 0 ""
   "iapaper.sty" 1453945982 2761 90c61713a9c89a8dd7ecfc115aaabd79 ""
-  "main.aux" 1483541648 1420 96a6b4d9a472726a24f9ae7e25c55502 ""
-  "main.tex" 1483585023 14163 1b77abc1d8f118d98094ce8e955c4ea1 ""
-  "main.toc" 1483541648 899 91c81cde9ec7e311df261ed9300150d0 ""
+  "images/02.png" 1482202781 42880 31fba915ad78ccd0ef9a086e418d15a4 ""
+  "images/03.png" 1482204426 28197 4f38dfd2c6600d017d3e297bb584aec5 ""
+  "images/yokone_place.pdf" 1479458954 631686 11640fa952107e5ea645db793066760d ""
+  "main.aux" 1483779541 2496 87e1980083bca5c9224ef5cdc0f3c223 ""
+  "main.tex" 1483779583 30393 826c3d2377371c7d1ab1f6de344e3e63 ""
+  "main.toc" 1483779541 1327 015d6a1ebfbbd2a0ebbedd3c76bdcbb9 ""
   (generated)
-  "main.aux"
   "main.dvi"
-  "main.toc"
   "main.log"
+  "main.aux"
+  "main.toc"

@@ -1,5 +1,5 @@
 \contentsline {section}{要旨}{i}
-\contentsline {section}{Summary}{ii}
+\contentsline {section}{Summary}{iv}
 \contentsline {section}{\numberline {1}序論}{1}
 \contentsline {subsection}{\numberline {1.1}本研究の概要}{1}
 \contentsline {subsection}{\numberline {1.2}背景と課題}{1}
@@ -10,4 +10,10 @@
 \contentsline {section}{\numberline {2}先行研究と概念の整理}{4}
 \contentsline {subsection}{\numberline {2.1}地域活性化とは}{4}
 \contentsline {subsection}{\numberline {2.2}対話と交流の“場”}{4}
-\contentsline {subsection}{\numberline {2.3}参考文献の書き方}{5}
+\contentsline {section}{\numberline {3}対象地域}{5}
+\contentsline {subsection}{\numberline {3.1}地域の概要}{5}
+\contentsline {subsection}{\numberline {3.2}現地調査の実施}{7}
+\contentsline {section}{\numberline {4}交流の”場”におけるガイドラインの設定}{9}
+\contentsline {subsection}{\numberline {4.1}ウェブサイト構築ワークショップ}{9}
+\contentsline {subsubsection}{\numberline {4.1.1}概要}{9}
+\contentsline {subsection}{\numberline {4.2}考察}{10}
