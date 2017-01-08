@@ -79,7 +79,7 @@ INPUT ./images/DSC_0192.JPG
 INPUT extractbb -O ./images/DSC_0192.JPG
 INPUT ./images/05.png
 INPUT extractbb -O ./images/05.png
-INPUT ./images/IMG_4784.JPG
+INPUT extractbb -O ./images/IMG_4784.JPG
 INPUT extractbb -O ./images/IMG_4784.JPG
 INPUT ./images/yokone.png
 INPUT extractbb -O ./images/yokone.png
@@ -87,7 +87,5 @@ INPUT ./images/06.jpg
 INPUT extractbb -O ./images/06.jpg
 INPUT ./images/07.jpg
 INPUT extractbb -O ./images/07.jpg
-INPUT ./images/09.png
-INPUT extractbb -O ./images/09.png
 INPUT ./images/03.png
 INPUT main.aux
