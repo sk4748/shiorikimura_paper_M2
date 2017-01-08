@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  8 JAN 2017 12:41
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  8 JAN 2017 13:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -356,6 +356,13 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/here/here.sty) (/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count90
+\float@exts=\toks16
+\float@box=\box42
+\@float@everytoks=\toks17
+\@floatcapt=\box43
 ) (./main.aux
 
 LaTeX Warning: Label `fig:tmu_hino' multiply defined.
@@ -379,6 +386,12 @@ LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 
 
+LaTeX Warning: Label `chirstmas2' multiply defined.
+
+
+LaTeX Warning: Label `fig:tmu_hino' multiply defined.
+
+
 LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 
 
@@ -396,58 +409,58 @@ LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 9.
+(Font)              scaled to size 11.54663pt on input line 10.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 9.
+(Font)              scaled to size 11.54663pt on input line 10.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 14.
+(Font)              scaled to size 16.62714pt on input line 15.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 14.
+(Font)              scaled to size 16.62714pt on input line 15.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 18.
+(Font)              scaled to size 23.94002pt on input line 19.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 18.
+(Font)              scaled to size 23.94002pt on input line 19.
  [1
 
 ]
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 25.
+(Font)              scaled to size 13.85594pt on input line 26.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 25.
+(Font)              scaled to size 13.85594pt on input line 26.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 25.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 25.
+(Font)              scaled to size 13.85594pt on input line 26.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 25.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 25.
+(Font)              scaled to size 13.85594pt on input line 26.
  [1
 
 ] [2] [3] [4
 
 ]
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 53.
+(Font)              scaled to size 9.6222pt on input line 54.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 53.
+(Font)              scaled to size 9.6222pt on input line 54.
  (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
@@ -461,21 +474,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 62.
+(Font)              scaled to size 11.54663pt on input line 63.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 62.
+(Font)              scaled to size 11.54663pt on input line 63.
  [1
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 78.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
  [2] [3] [4]
-./main.tex:118: Undefined control sequence.
-l.118 ...方の南部に位置する魚沼市は
+./main.tex:119: Undefined control sequence.
+l.119 ...方の南部に位置する魚沼市は
                                                 、水や気候がコシヒカ
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -483,8 +496,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./main.tex:118: Undefined control sequence.
-l.118 ...\par魚沼市中心市街地から車で
+./main.tex:119: Undefined control sequence.
+l.119 ...\par魚沼市中心市街地から車で
                                                  40分の場所に立地する
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -492,8 +505,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./main.tex:118: Undefined control sequence.
-l.118 ...クセス条件は良いとは言えず
+./main.tex:119: Undefined control sequence.
+l.119 ...クセス条件は良いとは言えず
                                                 、離村した若年層が頻
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -505,19 +518,16 @@ and I'll forget about whatever was undefined.
 File: ./images/yokone_place.pdf Graphic file (type pdf)
  <./images/yokone_place.pdf>
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 125.
+(Font)              scaled to size 8.65997pt on input line 126.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 125.
+(Font)              scaled to size 8.65997pt on input line 126.
  [6]
 File: ./images/02.png Graphic file (type bmp)
  <./images/02.png>
 File: ./images/03.png Graphic file (type bmp)
- <./images/03.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-./main.tex:150: Undefined control sequence.
-l.150 ...ことがわかった。\par地域には
+ <./images/03.png> [7]
+./main.tex:151: Undefined control sequence.
+l.151 ...ことがわかった。\par地域には
                                                  「役員会」と呼ばれる
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -525,8 +535,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./main.tex:150: Undefined control sequence.
-l.150 ...ar地域のヒアリング調査からも
+./main.tex:151: Undefined control sequence.
+l.151 ...ar地域のヒアリング調査からも
                                                   、昔は毎年やって...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -534,19 +544,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[7] [8]
-
-./main.tex:160: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.160 \item 1
-              … 事前に制作したデモ版を元にした最終イメ...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+[8]
 
 ./main.tex:161: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -554,44 +552,44 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.161 \item 2
+l.161 \item 1
+              … 事前に制作したデモ版を元にした最終イメ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./main.tex:162: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 \item 2
               … 集落の地図を1.5[m]×２[m]の紙地図に印刷し...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./main.tex:164: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./main.tex:165: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.164 \item 3
+l.165 \item 3
              … 特定されたら、紙地図上の撮影場所に写真...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./main.tex:166: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./main.tex:167: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 \item 4
+l.167 \item 4
               … データ作成の担当を決定する。
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./main.tex:168: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.168 \item 5
-             …マッピングシステムを利用し、写真データに...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -602,46 +600,58 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.169 \item 6
+l.169 \item 5
+             …マッピングシステムを利用し、写真データに...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./main.tex:170: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170 \item 6
              …成果物観覧
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [9]
 
-./main.tex:172: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./main.tex:173: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.172 \item 1
+l.173 \item 1
              )場の運営\\
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./main.tex:175: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./main.tex:176: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.175 \item 2
+l.176 \item 2
              )個々の場の位置づけ\\
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-File: ./images/03.png Graphic file (type bmp)
-<./images/03.png> [10]
+File: ./images/10.png Graphic file (type bmp)
+<./images/10.png> [10]
 
-./main.tex:185: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./main.tex:186: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.185 \item 3
+l.186 \item 3
              )場の設計\\
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -650,62 +660,45 @@ If that doesn't work, type  X <return>  to quit.
 File: ./images/03.png Graphic file (type bmp)
  <./images/03.png>
 File: ./images/03.png Graphic file (type bmp)
- <./images/03.png>
+ <./images/03.png> [12]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[12]
-
-./main.tex:213: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./main.tex:214: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.213 \item 1
+l.214 \item 1
              )場の運営…『場の運営柔軟な枠組みに基づい...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./main.tex:218: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.218 \item 2
-             )個々の場の位置づけ…『多様な世代が参加し...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [13]
 
-./main.tex:226: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./main.tex:219: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.226 \item 3
+l.219 \item 2
+             )個々の場の位置づけ…『多様な世代が参加し...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./main.tex:227: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.227 \item 3
              )場の設計…『参加者の想いや関心を自然に引...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [14]
-
-./main.tex:236: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.236 \\\\
-          
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 
 ./main.tex:237: LaTeX Error: There's no line here to end.
 
@@ -713,49 +706,28 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.237 
+l.237 \\\\
+          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./main.tex:238: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [15]
-
-./main.tex:245: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.245 \item 1
-              … 開催準備\\
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./main.tex:248: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.248 \item 2
-              … チームわけ
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./main.tex:251: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.251 \item 3
-             … チームで力を合わせて行う、紙飛行機の飛...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+File: ./images/04.JPG Graphic file (type bmp)
+ <./images/04.JPG>
 
 ./main.tex:253: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -763,11 +735,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.253 \item 4
-              … チームそれぞれのクリスマスケーキ作成
+l.253 \item 1
+              … 開催準備\\
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+[16]
 
 ./main.tex:256: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -775,8 +748,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.256 \item 5
-             …食事(コンテンツ鑑賞)
+l.256 \item 2
+              … チームわけ
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./main.tex:257: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 \item 3
+             … チームで力を合わせて行う、紙飛行機の飛...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -787,107 +772,83 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.258 \item 6
-             …子供達によるクリスマスプレゼントの配布\\
+l.258 \item 4
+              … チームそれぞれのクリスマスケーキ作成
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-File: ./images/03.png Graphic file (type bmp)
-<./images/03.png>
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-./main.tex:269: LaTeX Error: There's no line here to end.
+./main.tex:259: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.269 1
+l.259 \item 5
+             …食事(コンテンツ鑑賞)
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./main.tex:260: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 \item 6
+             …子供達によるクリスマスプレゼントの配布\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: ./images/04.JPG Graphic file (type bmp)
+<./images/04.JPG>
+
+./main.tex:272: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272 1
        -A:[目的におかない目標] ：枠組みをもったアウトプ...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[16]
-File: ./images/03.png Graphic file (type bmp)
- <./images/03.png> [17]
+[17]
+File: ./images/DSC_0192.JPG Graphic file (type bmp)
+ <./images/DSC_0192.JPG> [18]
+File: ./images/05.png Graphic file (type bmp)
+ <./images/05.png> [19]
 
-./main.tex:288: LaTeX Error: There's no line here to end.
+./main.tex:299: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.288 3
+l.299 3
        -A：[起爆のための仕込み]：事前に地域住民の意見...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[18]
-File: ./images/03.png Graphic file (type bmp)
- <./images/03.png>
-File: ./images/03.png Graphic file (type bmp)
- <./images/03.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: ./images/03.png Graphic file (type bmp)
-<./images/03.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: ./images/03.png Graphic file (type bmp)
-<./images/03.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-./main.tex:328: Undefined control sequence.
-l.328 \par上記の二つのワークを元に
-                                              、動画・冊子の鑑賞で...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[19]
-File: ./images/03.png Graphic file (type bmp)
- <./images/03.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 [20]
-
-./main.tex:344: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.344 \\\\
-          
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./main.tex:345: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.345 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./main.tex:349: Undefined control sequence.
-l.349 ...見ることができた。\parさらに
+File: ./images/IMG_4784.JPG Graphic file (type bmp)
+ <./images/IMG_4784.JPG>
+File: ./images/yokone.png Graphic file (type bmp)
+ <./images/yokone.png> [21]
+File: ./images/06.jpg Graphic file (type bmp)
+ <./images/06.jpg>
+File: ./images/07.jpg Graphic file (type bmp)
+ <./images/07.jpg> [22]
+File: ./images/09.png Graphic file (type bmp)
+ <./images/09.png> [23]
+File: ./images/03.png Graphic file (type bmp)
+ <./images/03.png> [24] [25]
+./main.tex:358: Undefined control sequence.
+l.358 ...見ることができた。\parさらに
                                                  、これまで地域活動に
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -895,9 +856,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[21] [22]
-./main.tex:362: Undefined control sequence.
-l.362 \par本研究の意義は
+[26] [27]
+./main.tex:370: Undefined control sequence.
+l.370 \par本研究の意義は
                                ，社会における重要な課題となり...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -905,23 +866,23 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[23] [24]
-Overfull \hbox (105.06757pt too wide) in paragraph at lines 386--387
+[28] [29]
+Overfull \hbox (105.06757pt too wide) in paragraph at lines 394--395
 []\JY2/mc/m/n/12 国土交通省重点政策 \OT1/cmr/m/n/12 (2016), \JY2/mc/m/n/12 国土交通省\OT1/cmr/m/n/12 ,<http://www.mlit.go.jp/common/001143046.pdf>,2016/06/02
  []
 
-[25] [26] (./main.aux)
+[30] [31] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 991 strings out of 493689
- 12141 string characters out of 6149981
- 76818 words of memory out of 5000000
- 4584 multiletter control sequences out of 15000+600000
+ 1088 strings out of 493689
+ 13693 string characters out of 6149981
+ 78935 words of memory out of 5000000
+ 4662 multiletter control sequences out of 15000+600000
  10876 words of font info for 54 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,4n,21p,3322b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,5n,21p,3322b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (32 pages, 83232 bytes).
+Output written on main.dvi (37 pages, 83832 bytes).

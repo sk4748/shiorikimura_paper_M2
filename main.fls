@@ -29,6 +29,10 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/here/here.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/here/here.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
 INPUT main.aux
 INPUT main.aux
 OUTPUT main.aux
@@ -64,14 +68,26 @@ INPUT ./images/02.png
 INPUT extractbb -O ./images/02.png
 INPUT ./images/03.png
 INPUT extractbb -O ./images/03.png
+INPUT ./images/10.png
+INPUT extractbb -O ./images/10.png
 INPUT ./images/03.png
 INPUT ./images/03.png
-INPUT ./images/03.png
-INPUT ./images/03.png
-INPUT ./images/03.png
-INPUT ./images/03.png
-INPUT ./images/03.png
-INPUT ./images/03.png
-INPUT ./images/03.png
+INPUT ./images/04.JPG
+INPUT extractbb -O ./images/04.JPG
+INPUT ./images/04.JPG
+INPUT ./images/DSC_0192.JPG
+INPUT extractbb -O ./images/DSC_0192.JPG
+INPUT ./images/05.png
+INPUT extractbb -O ./images/05.png
+INPUT ./images/IMG_4784.JPG
+INPUT extractbb -O ./images/IMG_4784.JPG
+INPUT ./images/yokone.png
+INPUT extractbb -O ./images/yokone.png
+INPUT ./images/06.jpg
+INPUT extractbb -O ./images/06.jpg
+INPUT ./images/07.jpg
+INPUT extractbb -O ./images/07.jpg
+INPUT ./images/09.png
+INPUT extractbb -O ./images/09.png
 INPUT ./images/03.png
 INPUT main.aux
