@@ -44,9 +44,8 @@
 \newcommand{\Mauthor}[1]{\begin{center}\Huge{#1}  \\ \vspace{10.75pt} \large{首都大学東京大学院}  \\ \large{システムデザイン研究科 博士前期課程}   \\  \large{インダストリアルアート学域} \end{center} }
 \newcommand{\Dauthor}[1]{\begin{center}\Huge{#1}  \\ \vspace{10.75pt} \large{首都大学東京大学院}  \\ \large{システムデザイン研究科 博士後期課程}   \\  \large{インダストリアルアート学域} \end{center} }
 
-\newcommand{\makemokuji}{\clearpage \normalsize \tableofcontents　\fontsize{12pt}{21.45pt}\selectfont \thispagestyle{empty}  \clearpage}
+\newcommand{\makemokuji}{\clearpage \normalsize \setcounter{tocdepth}{5}\tableofcontents　\fontsize{12pt}{21.45pt}\selectfont \thispagestyle{empty}  \clearpage}
 \newcommand{\jasummary}[2]{  \begin{center} \Large{ \bf{#1 \\  --- #2}} \end{center}  要旨 \thispagestyle{empty} \addcontentsline{toc}{section}{要旨} \\ }
 \newcommand{\summary}[2]{\clearpage  \begin{center} \Large{ \bf{#1 \\  --- #2}} \end{center}  Summary  \thispagestyle{empty}  \addcontentsline{toc}{section}{Summary} \\ }
 
 \renewcommand{\maketitle}{\thispagestyle{empty} \clearpage \fontsize{12pt}{21.45pt}\selectfont }
-
