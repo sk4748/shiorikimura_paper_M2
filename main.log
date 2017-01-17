@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  15 JAN 2017 20:51
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  16 JAN 2017 17:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,6 +392,9 @@ LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 
 
+LaTeX Warning: Label `fig:tmu_hino' multiply defined.
+
+
 LaTeX Warning: Label `chirstmas2' multiply defined.
 
 
@@ -410,10 +413,7 @@ LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 
 
-LaTeX Warning: Label `fig:tmu_hino' multiply defined.
-
-
-LaTeX Warning: Label `fig:tmu_hino' multiply defined.
+LaTeX Warning: Label `fig:tmu_hino_yokonarabi' multiply defined.
 
 
 LaTeX Warning: Label `fig:tmu_hino' multiply defined.
@@ -508,72 +508,62 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
- [3] [4] [5] [6]
+ [3] [4] [5] [6] [7]
 File: ./images/yokone_place.pdf Graphic file (type pdf)
  <./images/yokone_place.pdf>
 File: ./images/zinnkou.jpg Graphic file (type bmp)
- <./images/zinnkou.jpg> [7]
+ <./images/zinnkou.jpg> [8]
+File: ./images/18.png Graphic file (type bmp)
+ <./images/18.png> [9]
 File: ./images/03.png Graphic file (type bmp)
- <./images/03.png> [8]
+ <./images/03.png>
 File: ./images/02.png Graphic file (type bmp)
- <./images/02.png> [9] [10] [11]
+ <./images/02.png> [10] [11] [12]
+File: ./images/19.png Graphic file (type bmp)
+ <./images/19.png>
 File: ./images/10.png Graphic file (type bmp)
- <./images/10.png> [12] [13]
+ <./images/10.png> [13] [14]
 File: ./images/komenoma-2.png Graphic file (type bmp)
  <./images/komenoma-2.png>
 File: ./images/DSC_0054.JPG Graphic file (type bmp)
- <./images/DSC_0054.JPG> [14] [15] [16] [17]
-File: ./images/04.JPG Graphic file (type bmp)
- <./images/04.JPG> [18]
+ <./images/DSC_0054.JPG> [15] [16] [17] [18] [19]
+File: ./images/20.png Graphic file (type bmp)
+ <./images/20.png> [20]
 
-./main.tex:289: LaTeX Error: File `./images/' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.289 ...ludegraphics[width=0.95\hsize]{./images/}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./main.tex:297: LaTeX Error: There's no line here to end.
+./main.tex:306: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.297 1
+l.306 1
        -A:[目的におかない目標] ：枠組みをもったアウトプ...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 File: ./images/IMG_5929.JPG Graphic file (type bmp)
-<./images/IMG_5929.JPG> [19]
+<./images/IMG_5929.JPG>
 File: ./images/DSC_0192.JPG Graphic file (type bmp)
- <./images/DSC_0192.JPG> [20]
+ <./images/DSC_0192.JPG> [21] [22]
 File: ./images/05.png Graphic file (type bmp)
- <./images/05.png> [21]
+ <./images/05.png>
 
-./main.tex:330: LaTeX Error: There's no line here to end.
+./main.tex:339: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330 3
+l.339 3
        -A：[起爆のための仕込み]：事前に地域住民の意見...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[22]
-./main.tex:336: Undefined control sequence.
-l.336 \subsubsubsection
+[23]
+./main.tex:345: Undefined control sequence.
+l.345 \subsubsubsection
                         ◉　お祭りにおける地域愛，再確認ワ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -582,23 +572,25 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./main.tex:340: LaTeX Error: Something's wrong--perhaps a missing \item.
+./main.tex:349: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.340   \begin{center}
+l.349   \begin{center}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+File: ./images/21.png Graphic file (type bmp)
+<./images/21.png>
 File: ./images/IMG_4784.JPG Graphic file (type bmp)
-<./images/IMG_4784.JPG>
-File: ./images/yokone.png Graphic file (type bmp)
- <./images/yokone.png> [23]
-./main.tex:355: Undefined control sequence.
-l.355 \subsubsubsection
+ <./images/IMG_4784.JPG>
+File: ./images/yokone.jpg Graphic file (type bmp)
+ <./images/yokone.jpg> [24] [25]
+./main.tex:372: Undefined control sequence.
+l.372 \subsubsubsection
                         ◉　小学校における子供たちによる地...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -606,54 +598,44 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+[26]
 File: ./images/06.jpg Graphic file (type bmp)
-<./images/06.jpg>
+ <./images/06.jpg>
 File: ./images/07.jpg Graphic file (type bmp)
- <./images/07.jpg> [24]
+ <./images/07.jpg>
+Overfull \hbox (24.0pt too wide) in paragraph at lines 377--388
+ [][][] 
+ []
+
 File: ./images/09.png Graphic file (type bmp)
- <./images/09.png> [25] [26] [27]
-
-LaTeX Warning: File `./images/11.png' not found on input line 396.
-
-
-I try without the new options
-
-./main.tex:396: LaTeX Error: Cannot determine size of image (no BoundingBox).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.396 ...aphics[width=0.95\hsize]{./images/11.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-File: ./images/11.png Graphic file (type bmp)
-<./images/11.png> [28]
-
-LaTeX Warning: File `./images/11.png' not found on input line 404.
+<./images/09.png> [27] [28]
+File: ./images/IMG_0755.JPG Graphic file (type bmp)
+ <./images/IMG_0755.JPG>
+File: ./images/IMG_0747.JPG Graphic file (type bmp)
+ <./images/IMG_0747.JPG>
+Overfull \hbox (24.0pt too wide) in paragraph at lines 418--429
+ [][][] 
+ []
 
 
-I try without the new options
-
-./main.tex:404: LaTeX Error: Cannot determine size of image (no BoundingBox).
+./main.tex:434: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.404 ...aphics[width=0.95\hsize]{./images/11.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.434 \begin
+            {figure}[H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-File: ./images/11.png Graphic file (type bmp)
-<./images/11.png> [29] [30]
+File: ./images/24.jpg Graphic file (type bmp)
+<./images/24.jpg> [29] [30]
 File: ./images/16.jpg Graphic file (type bmp)
  <./images/16.jpg> [31] [32] [33] [34]
-Overfull \hbox (105.06757pt too wide) in paragraph at lines 459--460
-[]\JY2/mc/m/n/12 国土交通省重点政策 \OT1/cmr/m/n/12 (2016), \JY2/mc/m/n/12 国土交通省\OT1/cmr/m/n/12 ,<http://www.mlit.go.jp/common/001143046.pdf>,2016/06/02
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+[]\JY2/mc/m/n/12 国土交通省重点政策 \OT1/cmr/m/n/12 (2016)\JY2/mc/m/n/12 ， 国土交通省 ，
  []
 
 [35] [36] (./main.aux)
@@ -662,12 +644,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1127 strings out of 493689
- 14219 string characters out of 6149981
+ 1123 strings out of 493689
+ 14477 string characters out of 6149981
  77949 words of memory out of 5000000
- 4676 multiletter control sequences out of 15000+600000
+ 4688 multiletter control sequences out of 15000+600000
  10876 words of font info for 54 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,5n,21p,1675b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,10n,21p,1675b,528s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (42 pages, 95140 bytes).
+Output written on main.dvi (42 pages, 96988 bytes).
