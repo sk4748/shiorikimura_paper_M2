@@ -64,6 +64,7 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./images/yokone_place.pdf
 INPUT extractbb -O ./images/yokone_place.pdf
 INPUT ./images/zinnkou.jpg
@@ -74,20 +75,14 @@ INPUT ./images/03.png
 INPUT extractbb -O ./images/03.png
 INPUT ./images/02.png
 INPUT extractbb -O ./images/02.png
-INPUT ./images/19.png
-INPUT extractbb -O ./images/19.png
 INPUT ./images/10.png
 INPUT extractbb -O ./images/10.png
+INPUT ./images/19.png
+INPUT extractbb -O ./images/19.png
 INPUT ./images/komenoma-2.png
 INPUT extractbb -O ./images/komenoma-2.png
 INPUT ./images/DSC_0054.JPG
 INPUT extractbb -O ./images/DSC_0054.JPG
-INPUT ./images/20.png
-INPUT extractbb -O ./images/20.png
-INPUT ./images/IMG_5929.JPG
-INPUT extractbb -O ./images/IMG_5929.JPG
-INPUT ./images/DSC_0192.JPG
-INPUT extractbb -O ./images/DSC_0192.JPG
 INPUT ./images/05.png
 INPUT extractbb -O ./images/05.png
 INPUT ./images/21.png
@@ -100,6 +95,12 @@ INPUT ./images/06.jpg
 INPUT extractbb -O ./images/06.jpg
 INPUT ./images/07.jpg
 INPUT extractbb -O ./images/07.jpg
+INPUT ./images/20.png
+INPUT extractbb -O ./images/20.png
+INPUT ./images/IMG_5929.JPG
+INPUT extractbb -O ./images/IMG_5929.JPG
+INPUT ./images/DSC_0192.JPG
+INPUT extractbb -O ./images/DSC_0192.JPG
 INPUT ./images/09.png
 INPUT extractbb -O ./images/09.png
 INPUT ./images/IMG_0755.JPG

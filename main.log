@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  16 JAN 2017 17:51
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  19 JAN 2017 21:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -395,6 +395,15 @@ LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 
 
+LaTeX Warning: Label `fig:tmu_hino' multiply defined.
+
+
+LaTeX Warning: Label `fig:tmu_hino' multiply defined.
+
+
+LaTeX Warning: Label `fig:tmu_hino' multiply defined.
+
+
 LaTeX Warning: Label `chirstmas2' multiply defined.
 
 
@@ -408,12 +417,6 @@ LaTeX Warning: Label `fig:tmu_hino' multiply defined.
 
 
 LaTeX Warning: Label `fig:tmu_hino' multiply defined.
-
-
-LaTeX Warning: Label `fig:tmu_hino' multiply defined.
-
-
-LaTeX Warning: Label `fig:tmu_hino_yokonarabi' multiply defined.
 
 
 LaTeX Warning: Label `fig:tmu_hino' multiply defined.
@@ -487,7 +490,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [5
 
-]
+] [6]
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 64.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
@@ -498,9 +501,9 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 File: ./images/17.png Graphic file (type bmp)
  <./images/17.png>
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 77.
+(Font)              scaled to size 8.65997pt on input line 75.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 77.
+(Font)              scaled to size 8.65997pt on input line 75.
  [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 86.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
@@ -508,7 +511,30 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
- [3] [4] [5] [6] [7]
+ [3] [4]
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 119.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 119.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 119.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 119.
+
+
+LaTeX Warning: Citation `kasseika' on page 5 undefined on input line 119.
+
+[5]
+./main.tex:126: Undefined control sequence.
+l.126 ...ている.\cite{13}\par状況に応じて
+                                                  ，どのように場を...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6] [7]
 File: ./images/yokone_place.pdf Graphic file (type pdf)
  <./images/yokone_place.pdf>
 File: ./images/zinnkou.jpg Graphic file (type bmp)
@@ -518,52 +544,47 @@ File: ./images/18.png Graphic file (type bmp)
 File: ./images/03.png Graphic file (type bmp)
  <./images/03.png>
 File: ./images/02.png Graphic file (type bmp)
- <./images/02.png> [10] [11] [12]
-File: ./images/19.png Graphic file (type bmp)
- <./images/19.png>
+ <./images/02.png> [10] [11] [12] [13]
 File: ./images/10.png Graphic file (type bmp)
- <./images/10.png> [13] [14]
+ <./images/10.png> [14]
+File: ./images/19.png Graphic file (type bmp)
+ <./images/19.png> [15]
 File: ./images/komenoma-2.png Graphic file (type bmp)
  <./images/komenoma-2.png>
 File: ./images/DSC_0054.JPG Graphic file (type bmp)
- <./images/DSC_0054.JPG> [15] [16] [17] [18] [19]
-File: ./images/20.png Graphic file (type bmp)
- <./images/20.png> [20]
+ <./images/DSC_0054.JPG> [16] [17] [18] [19] [20]
 
-./main.tex:306: LaTeX Error: There's no line here to end.
+./main.tex:311: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.306 1
+l.311 1
        -A:[目的におかない目標] ：枠組みをもったアウトプ...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-File: ./images/IMG_5929.JPG Graphic file (type bmp)
-<./images/IMG_5929.JPG>
-File: ./images/DSC_0192.JPG Graphic file (type bmp)
- <./images/DSC_0192.JPG> [21] [22]
+[21]
 File: ./images/05.png Graphic file (type bmp)
- <./images/05.png>
+ <./images/05.png> [22]
 
-./main.tex:339: LaTeX Error: There's no line here to end.
+./main.tex:330: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.339 3
+l.330 3
        -A：[起爆のための仕込み]：事前に地域住民の意見...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [23]
-./main.tex:345: Undefined control sequence.
-l.345 \subsubsubsection
+./main.tex:336: Undefined control sequence.
+l.336 \subsubsubsection
                         ◉　お祭りにおける地域愛，再確認ワ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -572,13 +593,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./main.tex:349: LaTeX Error: Something's wrong--perhaps a missing \item.
+./main.tex:340: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.349   \begin{center}
+l.340   \begin{center}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -589,8 +610,8 @@ File: ./images/IMG_4784.JPG Graphic file (type bmp)
  <./images/IMG_4784.JPG>
 File: ./images/yokone.jpg Graphic file (type bmp)
  <./images/yokone.jpg> [24] [25]
-./main.tex:372: Undefined control sequence.
-l.372 \subsubsubsection
+./main.tex:363: Undefined control sequence.
+l.363 \subsubsubsection
                         ◉　小学校における子供たちによる地...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -603,53 +624,121 @@ File: ./images/06.jpg Graphic file (type bmp)
  <./images/06.jpg>
 File: ./images/07.jpg Graphic file (type bmp)
  <./images/07.jpg>
-Overfull \hbox (24.0pt too wide) in paragraph at lines 377--388
+Overfull \hbox (24.0pt too wide) in paragraph at lines 368--379
  [][][] 
  []
 
-File: ./images/09.png Graphic file (type bmp)
-<./images/09.png> [27] [28]
-File: ./images/IMG_0755.JPG Graphic file (type bmp)
- <./images/IMG_0755.JPG>
-File: ./images/IMG_0747.JPG Graphic file (type bmp)
- <./images/IMG_0747.JPG>
-Overfull \hbox (24.0pt too wide) in paragraph at lines 418--429
- [][][] 
- []
+[27]
+File: ./images/20.png Graphic file (type bmp)
+ <./images/20.png> [28]
+File: ./images/IMG_5929.JPG Graphic file (type bmp)
+ <./images/IMG_5929.JPG>
 
-
-./main.tex:434: LaTeX Error: There's no line here to end.
+./main.tex:406: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.434 \begin
-            {figure}[H]
+l.406   \caption
+                {子供たちによるプレゼント作成の様子}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./main.tex:406: Undefined control sequence.
+\caption ... \endcsname \fi \fi \@dblarg {\@tempf 
+                                                  \@captype }
+l.406   \caption
+                {子供たちによるプレゼント作成の様子}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:406: Undefined control sequence.
+\caption ...e \fi \fi \@dblarg {\@tempf \@captype 
+                                                  }
+l.406   \caption
+                {子供たちによるプレゼント作成の様子}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:409: Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.409 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+./main.tex:409: LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.409 \end{figure}
+                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+./main.tex:409: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.409 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+File: ./images/DSC_0192.JPG Graphic file (type bmp)
+<./images/DSC_0192.JPG> [29]
+File: ./images/09.png Graphic file (type bmp)
+ <./images/09.png> [30]
+File: ./images/IMG_0755.JPG Graphic file (type bmp)
+ <./images/IMG_0755.JPG>
+./main.tex:433: Extra }, or forgotten \endgroup.
+l.433 ...[width=0.8\hsize]{./images/IMG_0755.JPG}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[31]
+File: ./images/IMG_0747.JPG Graphic file (type bmp)
+ <./images/IMG_0747.JPG>
 File: ./images/24.jpg Graphic file (type bmp)
-<./images/24.jpg> [29] [30]
+ <./images/24.jpg> [32] [33]
 File: ./images/16.jpg Graphic file (type bmp)
- <./images/16.jpg> [31] [32] [33] [34]
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
-[]\JY2/mc/m/n/12 国土交通省重点政策 \OT1/cmr/m/n/12 (2016)\JY2/mc/m/n/12 ， 国土交通省 ，
+ <./images/16.jpg> [34] [35] [36] [37]
+Overfull \hbox (41.80078pt too wide) in paragraph at lines 504--505
+[]\JY2/mc/m/n/12 国土交通省重点政策 \OT1/cmr/m/n/12 (2016)\JY2/mc/m/n/12 、 \OT1/cmr/m/n/12 <http://www.mlit.go.jp/common/001143046.pdf>2016/06/02
  []
 
-[35] [36] (./main.aux)
+
+LaTeX Warning: Citation `kasseika' on page 38 undefined on input line 511.
+
+[38] [39] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1123 strings out of 493689
- 14477 string characters out of 6149981
+ 1128 strings out of 493689
+ 14533 string characters out of 6149981
  77949 words of memory out of 5000000
- 4688 multiletter control sequences out of 15000+600000
- 10876 words of font info for 54 fonts, out of 8000000 for 9000
+ 4693 multiletter control sequences out of 15000+600000
+ 11183 words of font info for 55 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,10n,21p,1675b,528s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,10n,22p,1675b,528s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (42 pages, 96988 bytes).
+Output written on main.dvi (46 pages, 102024 bytes).
